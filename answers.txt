@@ -1,0 +1,7 @@
+    Pro: Breaks down a difficult project into smaller easier portions
+
+    Pro: Allows for finding issues early in development
+
+    Con: Greater demand on clients and teams
+
+    Con: Constant changes that cause unpredictability
