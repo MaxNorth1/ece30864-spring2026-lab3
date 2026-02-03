@@ -1,3 +1,7 @@
-Scrum Master: Acts as the leader for a Scrum related tasks dealing with Jira tooling and facilitating sprints and meetings.
+    Pro: Breaks down a difficult project into smaller easier portions
 
-Product Owner: Sets the direction for the team, handles the releases, and stakeholder management.
+    Pro: Allows for finding issues early in development
+
+    Con: Greater demand on clients and teams
+
+    Con: Constant changes that cause unpredictability
