@@ -1,0 +1,17 @@
+    Sprint Planning Meeting:
+
+        Determine what to complete for the following sprint.
+
+        Move the stories from the backlog to the current sprint.
+
+    Daily Scrum/Standup Meeting:
+
+        Discuss the work that has been completed.
+
+        Discuss the work plan for the day.
+
+    Sprint Retrospective Meeting: 
+
+        Move all of the incomplete work to the backlog.
+
+        Close the current sprint.
