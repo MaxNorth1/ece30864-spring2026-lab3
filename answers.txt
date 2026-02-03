@@ -1,0 +1,7 @@
+    Epic: Captures a large body of work that can be broken down into several smaller stories.
+
+    Story: A software system requirement that is expressed in a few short sentences.
+
+    Bug: A problem that impairs product function, requiring a fix.
+
+    Task: A specific, technical, or administrative "to-do" item that supports an epic or story.
