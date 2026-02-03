@@ -1,0 +1,3 @@
+Scrum Master: Acts as the leader for a Scrum related tasks dealing with Jira tooling and facilitating sprints and meetings.
+
+Product Owner: Sets the direction for the team, handles the releases, and stakeholder management.
